@@ -1,7 +1,7 @@
 ## Multi Pairwise Procrustes Analysis
 This repo contains the source code for our paper:
 
-[**A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation**]()
+[**A Multi-Pairwise Extension of Procrustes Analysis for Multilingual Word Translation**](https://www.aclweb.org/anthology/D19-1363.pdf)
 <br>
 Hagai Taitelbaum,
 [Gal Chechik](https://chechiklab.biu.ac.il/~gal/),
@@ -9,14 +9,12 @@ Hagai Taitelbaum,
 <br>
 EMNLP 2019
 <br>
-[bibtex]()
-
-[comment]: # (todo: fix links when available)
+[bibtex](https://www.aclweb.org/anthology/D19-1363.bib)
 
 (built over MUSE implementation, https://github.com/facebookresearch/MUSE)
 
 ## Environment
-For installing the appropriate environment with conda, run the following commands:
+For installing the appropriate environment with conda, run the following commands (with anaconda3):
 ```
 conda create --name mppa_env python=3.6 --yes
 conda activate mppa_env
